@@ -1,10 +1,10 @@
 # Solar Center Ecommerce Website
 <br>
-#### Video Demo: <https://youtu.be/4Ad3L_LKgf4>
+<h2> Video Demo: <https://youtu.be/4Ad3L_LKgf4> </h3> 
 <br>
-#### Description:
+<h2>Description:</h2>
 
-###About The store:
+<h2>About The store:</h2>
 <p>The website is created using <b>Django, Html, Css and Javscript</b></p>
 
 <div>
