@@ -1,6 +1,6 @@
 # Solar Center Ecommerce Website
 <br>
-<h2> Video Demo: <https://youtu.be/4Ad3L_LKgf4> </h3> 
+<h2> Video Demo: <b>https://youtu.be/4Ad3L_LKgf4</b> </h3> 
 <br>
 <h2>Description:</h2>
 
